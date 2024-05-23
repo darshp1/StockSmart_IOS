@@ -1,0 +1,14 @@
+[
+    {
+        "symbol": "AAPL",
+        "price": 171.23,
+        "companyName": "Apple Inc.",
+        "change": "-7.44 (-1.16%)"
+    },
+    {
+        "symbol": "NVDA",
+        "price": 913.02,
+        "companyName": "NVIDIA Corp",
+        "change": "19.30 (1.00%)"
+    }
+]
